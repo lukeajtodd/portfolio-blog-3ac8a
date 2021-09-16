@@ -1,10 +1,10 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "Luke Todd - Developer",
     "path_prefix": "/",
-    "color_scheme": "light",
-    "accent_color": "pink",
+    "color_scheme": "dark",
+    "accent_color": "green",
     "header": {
-        "title": "Exto",
+        "title": "LT",
         "has_nav": true,
         "nav_links": [
             {
@@ -23,11 +23,6 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
-            },
-            {
                 "label": "About",
                 "url": "/about/",
                 "style": "link"
@@ -40,7 +35,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "&copy; Luke Todd. All rights reserved.",
         "has_social": true,
         "social_links": [
             {
@@ -52,14 +47,14 @@
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/lukeajtodd/",
                 "style": "icon",
                 "icon": "instagram",
                 "new_window": true
             },
             {
                 "label": "Dribbble",
-                "url": "https://dribbble.com/",
+                "url": "https://dribbble.com/lukeajtodd/",
                 "style": "icon",
                 "icon": "dribbble",
                 "new_window": true

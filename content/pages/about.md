@@ -4,17 +4,17 @@ subtitle: This is a short page about us and our work.
 image: images/about.jpg
 image_alt: A man taking a picture
 seo:
-  title: About Us
-  description: This is the about us page
+  title: Luke Todd - About
+  description: Some details and information about Luke Todd
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: Luke Todd - About
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: Some details and information about Luke Todd
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
@@ -23,9 +23,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: Luke Todd - About
     - name: 'twitter:description'
-      value: This is the about us page
+      value: Some details and information about Luke Todd
     - name: 'twitter:image'
       value: images/about.jpg
       relativeUrl: true
@@ -36,6 +36,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis a
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla.
 
 *Thank You for reading!*

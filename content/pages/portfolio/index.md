@@ -3,17 +3,17 @@ title: Portfolio
 subtitle: This is an optional subtitle for the portfolio page.
 layout_style: mosaic
 seo:
-  title: Portfolio
-  description: This is the portfolio page
+  title: Luke Todd - Portfolio
+  description: Portrfolio directory for Luke Todd
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Portfolio
+      value: Luke Todd - Portfolio
       keyName: property
     - name: 'og:description'
-      value: This is the portfolio page
+      value: Portrfolio directory for Luke Todd
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
@@ -22,9 +22,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Portfolio
+      value: Luke Todd - Portfolio
     - name: 'twitter:description'
-      value: This is the portfolio page
+      value: Portrfolio directory for Luke Todd
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true

@@ -5,9 +5,9 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >-
-      Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or send us an email at
-      [example@example.com](mailto:example@example.com).
+      Why hello! Thank you for popping on over. Please
+      fill in the contact form below or send me an email at
+      [luketodd@zoho.com](mailto:luketodd@zoho.com).
     form_id: contactForm
     form_action: /thank-you
     form_fields:
@@ -40,23 +40,23 @@ sections:
           can be contacted.
     submit_label: Send Message
 seo:
-  title: Contact
-  description: This is the contact page
+  title: Luke Todd - Contact
+  description: Contact page to get in touch with Luke Todd
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Luke Todd - Contact
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: Contact page to get in touch with Luke Todd
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Luke Todd - Contact
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Contact page to get in touch with Luke Todd
 layout: advanced
 ---
