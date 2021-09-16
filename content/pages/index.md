@@ -4,9 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Luke.'
+    title: '👋 I''m Luke.'
     content: >-
-      I'm an aspiring polyglot programmer, doodler and tall person. If you'd like to talk about a project or have some interesting findings to share then...
+      I'm a polyglot programmer, doodler and tall person. If you'd like to talk about a project or have some interesting findings to share then...
     actions:
       - label: Hit me up!
         url: /contact
